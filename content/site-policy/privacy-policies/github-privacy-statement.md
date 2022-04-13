@@ -1,5 +1,5 @@
 ---
-title: GitHub Privacy Statement
+title:fuck GitHub Privacy Statement
 redirect_from:
   - /privacy
   - /privacy-policy
